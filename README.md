@@ -1,4 +1,5 @@
-# ChatPlotLib
+# ChatPlotLib 🚀🤖
+
 
 ChatPlotLib is a Python-based chatbot application designed to assist users with data analysis and visualization using data visualisation libraries. It integrates with LangChain as well as ChainLit and allows users to interactively request code snippets for generating various types of plots based on their dataset.
 
