@@ -1,0 +1,7 @@
+chainlit==1.1.306
+chardet==5.2.0
+langchain_community==0.2.7
+langchain_core==0.2.18
+matplotlib==3.9.1
+pandas==1.5.3
+seaborn==0.13.2
